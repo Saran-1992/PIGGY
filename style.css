@@ -1,0 +1,130 @@
+body{
+    background-color: gray;
+}
+
+.eye13{
+    position: absolute;
+    height: 40px;
+    width: 40px;
+    border-radius: 50%;
+    background-color: hotpink;
+    border-color: black;
+    border-style: solid;
+    top:-11px;
+    left: -5px;
+    overflow: hidden;
+    z-index: -1;
+}
+
+.eye23{
+    position: absolute;
+    height: 40px;
+    width: 40px;
+    border-radius: 50%;
+    background-color: hotpink;
+    border-color: black;
+    border-style: solid;
+    top: -11px;
+    left: 65px;
+    overflow: hidden;
+    z-index: -1;
+}
+
+.face{
+    width: 100px;
+    height: 100px;
+    background-color: hotpink;
+    border-radius: 50%;
+    border-color: black;
+    border-style: solid;
+    position: relative;
+    margin: 100px;
+    z-index: 2;
+}
+
+.eye12{
+    position: absolute;
+    height: 20px;
+    width: 20px;
+    border-radius: 50%;
+    background-color: white;
+    border-color: black;
+    border-style: solid;
+    top: 25px;
+    left: 20px;
+    z-index: 2;
+}
+
+.eye1{
+    position: absolute;
+    height: 11px;
+    width: 11px;
+    border-radius: 50%;
+    background-color: black;
+    top: 30px;
+    left: 25px;
+    z-index: 3;
+}
+
+.eye2{
+    position: absolute;
+    height: 11px;
+    width: 11px;
+    border-radius: 50%;
+    background-color: black;
+    top: 30px;
+    left: 69px;
+    z-index: 2;
+}
+
+.eye21{
+    position: absolute;
+    height: 20px;
+    width: 20px;
+    border-radius: 50%;
+    background-color: white;
+    border-color: black;
+    border-style: solid;
+    top: 25px;
+    left: 65px;
+    z-index: 1;
+}
+
+.mouth{
+    height: 32px;
+    width: 50px;
+    position: absolute;
+    background-color: hotpink;
+    border-top-left-radius: 200px;
+    border-top-right-radius: 200px;
+    border-bottom-right-radius: 200px;
+    border-bottom-left-radius: 200px;
+    border-color: black;
+    border-style: solid;
+    top: 55px;
+    left: 23px;
+    z-index: 1;
+    overflow: hidden;
+}
+
+.eye14{
+    position: absolute;
+    height: 11px;
+    width: 11px;
+    border-radius: 50%;
+    background-color: black;
+    top: 69px;
+    left: 35px;
+    z-index: 2;
+}
+
+.eye24{
+    position: absolute;
+    height: 11px;
+    width: 11px;
+    border-radius: 50%;
+    background-color: black;
+    top: 69px;
+    left: 55px;
+    z-index: 2;
+}
